@@ -1,0 +1,31 @@
+{
+  "users": [
+    {
+      "id": "3e16",
+      "fname": "abcd",
+      "lname": "abcd",
+      "bdate": "2024-03-01",
+      "email": "abcd@gmail.com",
+      "password": "1234567890",
+      "cpassword": "1234567890"
+    },
+    {
+      "id": "9e52",
+      "fname": "abcd",
+      "lname": "abcd",
+      "bdate": "2024-03-02",
+      "email": "abcd@gmail.com",
+      "password": "123456789",
+      "cpassword": "123456789"
+    },
+    {
+      "id": "dcd6",
+      "fname": "Tilottam ",
+      "lname": "Zope",
+      "bdate": "2024-03-02",
+      "email": "tilottamzope@gmail.com",
+      "password": "1234567890",
+      "cpassword": "1234567890"
+    }
+  ]
+}

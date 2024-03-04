@@ -1,0 +1,27 @@
+
+.register-form {
+    padding: 25px 15px;
+    
+    margin: 50px 0px;
+    border: 1px solid #ddd;
+    float: left;
+    width: 100%;
+    
+    
+}
+.register-form .form-group {
+    position: relative;
+}
+.register-form .hint {
+    display: none;
+    position: absolute;
+    right: 0;
+}
+.register-form span {
+    display: block;
+    padding: 2px 15px;
+    border-radius: 4px;
+}
+.register-form input:focus + span {
+    display: block;
+}
